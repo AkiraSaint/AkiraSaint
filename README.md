@@ -1,9 +1,7 @@
 # Creativity is a must, but the way to solve new problems is ❤️ 
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraSaint
-&layout=compact"/>
-<img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=AkiraSaint
-&&show_icons=true&bg_color=00000000" />
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraSaint&layout=compact"/>
+<img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=AkiraSaint&&show_icons=true&bg_color=00000000" />
 
 
 <p align="center">
