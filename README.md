@@ -1,7 +1,9 @@
 # Creativity is a must, but the way to solve new problems is ❤️ 
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdir634&layout=compact"/>
-<img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=mkdir634&&show_icons=true&bg_color=00000000" />
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira Saint
+&layout=compact"/>
+<img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Akira Saint
+&&show_icons=true&bg_color=00000000" />
 
 
 <p align="center">
@@ -34,7 +36,8 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mkdir634&row=1&column=9" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Akira Saint
+&row=1&column=9" alt="GitHub Trophies" />
   </a>
 </p>
 
